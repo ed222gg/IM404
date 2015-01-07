@@ -1,0 +1,6 @@
+P:\nyaim\imlabb4\imlabb4\bin\Debug\imlabb4.exe.config
+P:\nyaim\imlabb4\imlabb4\obj\Debug\imlabb4.csprojResolveAssemblyReference.cache
+P:\nyaim\imlabb4\imlabb4\bin\Debug\imlabb4.exe
+P:\nyaim\imlabb4\imlabb4\bin\Debug\imlabb4.pdb
+P:\nyaim\imlabb4\imlabb4\obj\Debug\imlabb4.exe
+P:\nyaim\imlabb4\imlabb4\obj\Debug\imlabb4.pdb

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="imlabb4.Gymnast" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAAAAAAggAAAAEAAQAAEAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Gymnast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="imlabb4.Referee">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAoAAAAAAAA=</HashCode>
+      <FileName>Referee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="imlabb4.RegisterContest">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAAAAAAAAACAAiAAIAAAAAAAA=</HashCode>
+      <FileName>RegisterContest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="imlabb4.TestGymnast" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>TestGymnast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="imlabb4.TestReferee" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAQAACAAAAAAACAAA=</HashCode>
+      <FileName>TestReferee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="imlabb4.TestRegisterContest">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestRegisterContest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="imlabb4.User" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABACAQIAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="imlabb4.UnitTestUser" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication.interaktiv.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAIACAAAAAAgAAAAAEAAAAQAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
